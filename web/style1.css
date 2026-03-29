@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0833;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+}
+.container {
+    display: flex;
+    background: #9bdcff;
+    min-width: 50vh;
+    max-width: 90vh;
+    max-height: 95vh;
+    margin: auto;
+    padding: 20px;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    border-radius: 12px;
+    margin-top: 90px;
+
+    .question {
+    display: flex;
+    margin: auto;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+
+    }
+.options button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    background-color: #470808;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    min-width: 200px;
+    max-width: fit-content;
+}
+#options{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+}
+#options button:hover {
+    background-color: #8fbbea;
+    color : black;
+    border-color: #470808;
+    /* transition: all 0.1s ease-in-out; */
+}
+/* #options button.correct {
+    background-color: green;
+}
+#options button.wrong {
+    background-color: red;
+}
+#options button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed; */
+}
+/* .options button:hover {
+    background-color: #8fbbea;
+    color : black;
+    border-color: #470808; */
+    
+.next button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #470808;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.next button:hover {
+    background-color: #8fbbea;
+    color : black;
+    border-color: #470808;
+}
+
+.timer {
+    color: red;
+    font-size: 16px;
+    margin-top: 20px;
+    #time-left {
+        font-weight: bold;
+        color: rgb(1, 1, 1);
+    }
+}

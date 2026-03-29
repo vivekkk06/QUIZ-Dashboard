@@ -1,0 +1,9 @@
+Name	Age	City	Salary	Phone	Email
+John	30	NY	5000	1234567890	john@example.com
+Alice	25	LA	6000	9876543210	alice@example.org
+Bob	40	SF	7000	5556677888	bob@example.net
+Bob	40	SF	7000	5556677888	bob@example.net
+Bob	40	SF	7000	5556677888	bob@example.net
+XXX	xx	YY	0000	0000000000	xx@yy.com
+XXX	xx	YY	0000	0000000000	xx@yy.com
+XXX	xx	YY	0000	0000000000	xx@yy.com
