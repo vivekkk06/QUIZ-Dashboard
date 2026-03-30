@@ -1,7 +1,0 @@
-nitin,12
-krish,1
-eesh,23
-viraj,2
-Shashwat,6
-n,1
-nit,10

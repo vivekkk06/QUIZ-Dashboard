@@ -1,5 +1,0 @@
-The first thing users of the UNIX or Linux operating systems come face to face with
-is the shell. “Shell” is the UNIX term for a user interface to the system—something
-that lets you communicate with the computer via the keyboard and the display.
-Shells are just separate programs that encapsulate the system, and, as such, there are
-working environment. Since changing shells is as easy as changing hats, there is no

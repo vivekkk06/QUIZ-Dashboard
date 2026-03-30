@@ -1,63 +1,0 @@
-Aditya Phapale				aditya.phapale.24031@iitgoa.ac.in
-Amarpreet Samra				amarpreet.samra.24031@iitgoa.ac.in
-Ankit Kumar				ankit.kumar.24031@iitgoa.ac.in
-Ankita Kumari				ankita.kumari.24031@iitgoa.ac.in
-Areen Shibu				areen.shibu.24031@iitgoa.ac.in
-Balaji Reddy				balaji.reddy.24031@iitgoa.ac.in
-Bharath Kumar				bharath.kumar.24031@iitgoa.ac.in
-Bhavya Bharadwaj				bhavya.bharadwaj.24031@iitgoa.ac.in
-Bhushan Amol				bhushan.amol.24031@iitgoa.ac.in
-Cheeli Roshan				cheeli.roshan.24031@iitgoa.ac.in
-Dagle Amruta				dagle.amruta.24031@iitgoa.ac.in
-Dasarapalli Paul				dasarapalli.paul.24031@iitgoa.ac.in
-Dhanawade Sarang				dhanawade.sarang.24031@iitgoa.ac.in
-Dhanvith Kumar				dhanvith.kumar.24031@iitgoa.ac.in
-Dharavath Omkar				dharavath.omkar.24031@iitgoa.ac.in
-Gosavi Sudesh				gosavi.sudesh.24031@iitgoa.ac.in
-Harsh Raj				harsh.raj.24031@iitgoa.ac.in
-Hrithik Bansal				hrithik.bansal.24031@iitgoa.ac.in
-Joshi Ameya				joshi.ameya.24031@iitgoa.ac.in
-Joy Prakash				joy.prakash.24031@iitgoa.ac.in
-Kanetiya Parth				kanetiya.parth.24031@iitgoa.ac.in
-Machhi Pranay				machhi.pranay.24031@iitgoa.ac.in
-Naman Solanki				naman.solanki.24031@iitgoa.ac.in
-Nayan Gawande				nayan.gawande.24031@iitgoa.ac.in
-Neet Lahoti				neet.lahoti.24031@iitgoa.ac.in
-Nirmal Meena				nirmal.meena.24031@iitgoa.ac.in
-Patel Samay				patel.samay.24031@iitgoa.ac.in
-Patil Shradha				patil.shradha.24031@iitgoa.ac.in
-S Sreelakshmi				s.sreelakshmi.24031@iitgoa.ac.in
-Sadaria Aashwi				sadaria.aashwi.24031@iitgoa.ac.in
-Saiyed Cyrus				saiyed.cyrus.24031@iitgoa.ac.in
-Sakariya Jeet				sakariya.jeet.24031@iitgoa.ac.in
-Shah Ronit				shah.ronit.24031@iitgoa.ac.in
-Shaurya Sinha				shaurya.sinha.24031@iitgoa.ac.in
-Soham Shrinagar				soham.shrinagar.24031@iitgoa.ac.in
-Sutar Saksham				sutar.saksham.24031@iitgoa.ac.in
-Tanushree Sanjay				tanushree.sanjay.24031@iitgoa.ac.in
-Vivek Badgujar				vivek.badgujar.24031@iitgoa.ac.in
-Vunnam Venkata				vunnam.venkata.24031@iitgoa.ac.in
-Aarya Binoy				aarya.binoy.24033@iitgoa.ac.in
-Aditya Ambara				aditya.ambara.24033@iitgoa.ac.in
-Alladi Samuel				alladi.samuel.24033@iitgoa.ac.in
-Amisha Kohli				amisha.kohli.24033@iitgoa.ac.in
-Chirag Nayak				chirag.nayak.24033@iitgoa.ac.in
-Darshan Sunil				darshan.sunil.24033@iitgoa.ac.in
-Duba Sai				duba.sai.24033@iitgoa.ac.in
-Harsh Bhavsar				harsh.bhavsar.24033@iitgoa.ac.in
-Krunalkumar Asari				krunalkumar.asari.24033@iitgoa.ac.in
-Kumawat Soniya				kumawat.soniya.24033@iitgoa.ac.in
-Mallidi Mohan				mallidi.mohan.24033@iitgoa.ac.in
-Mitta Siva				mitta.siva.24033@iitgoa.ac.in
-Modi Rushil				modi.rushil.24033@iitgoa.ac.in
-Mukul Chauhan				mukul.chauhan.24033@iitgoa.ac.in
-Nitish Kumar				nitish.kumar.24033@iitgoa.ac.in
-Priya Kumari				priya.kumari.24033@iitgoa.ac.in
-Ravi Singh				ravi.singh.24033@iitgoa.ac.in
-Sanjana Vikram				sanjana.vikram.24033@iitgoa.ac.in
-Sasane Yash				sasane.yash.24033@iitgoa.ac.in
-Saurav Baranwal				saurav.baranwal.24033@iitgoa.ac.in
-Shantanu Urgunde				shantanu.urgunde.24033@iitgoa.ac.in
-Shivraj Bairwa				shivraj.bairwa.24033@iitgoa.ac.in
-Tharun Sp				tharun.sp.24033@iitgoa.ac.in
-Utkarsh Shukla				utkarsh.shukla.24033@iitgoa.ac.in
