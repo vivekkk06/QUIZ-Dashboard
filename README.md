@@ -106,4 +106,4 @@ This app presents multiple-choice questions, tracks the user’s score, includes
 ---
 
 ## 🙌 Author
-Nitin Thakur
+Nitin Thakur && VIVEK BADGUJAR
