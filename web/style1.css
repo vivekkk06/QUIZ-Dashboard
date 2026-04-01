@@ -15,7 +15,7 @@ body {
 .container {
     display: flex;
     background: #9bdcff;
-    min-width: 50vh;
+    min-width: 80vh;
     max-width: 90vh;
     max-height: 95vh;
     margin: auto;
@@ -26,7 +26,7 @@ body {
     justify-content: center;
     border-radius: 12px;
     margin-top: 90px;
-
+}
     .question {
     display: flex;
     margin: auto;
@@ -62,21 +62,28 @@ body {
     border-color: #470808;
     /* transition: all 0.1s ease-in-out; */
 }
-/* #options button.correct {
+
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background-color: #ddd;
+    border-radius: 7px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+#progress-bar {
+    height: 100%;
+    width: 0%;
     background-color: green;
+    transition: width 0.3s ease;
 }
-#options button.wrong {
-    background-color: red;
+
+#score-text {
+    font-weight: bold;
+    margin-bottom: 10px;
 }
-#options button:disabled {
-    background-color: #ccc;
-    cursor: not-allowed; */
-}
-/* .options button:hover {
-    background-color: #8fbbea;
-    color : black;
-    border-color: #470808; */
-    
+
 .next button {
     padding: 10px 20px;
     font-size: 18px;
@@ -96,8 +103,8 @@ body {
     color: red;
     font-size: 16px;
     margin-top: 20px;
-    #time-left {
+}
+#time-left {
         font-weight: bold;
         color: rgb(1, 1, 1);
     }
-}
